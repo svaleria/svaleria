@@ -1,6 +1,6 @@
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <img width=50% src="https://omundy.wordpress.com/wp-content/uploads/2012/04/i-will-not-write-any-more-bad-code.gif">
+   <img width=50% src="https://miro.medium.com/v2/resize:fit:1400/1*lsmM0vAKO40_KCIZVQhTfQ.jpeg">
    </a>
 </div>
 <h1 align="center"><a href="https://github.com/Sabyasachi-Seal"><img width=7% height=15% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif"/></a> I'm a
