@@ -184,6 +184,11 @@
    </a>
 </div>
 
+<div align=center>
+   <a href="https://github.com/svaleria">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   </a>
+</div>
 <div align=center>            
    <a href="https://github.com/svaleria">
    <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%F1F1C725&center=true&vCenter=true&width=450%&lines=Watch+a+Snake+eat+my+contributions+!" />
