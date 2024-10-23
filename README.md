@@ -9,11 +9,6 @@
    </a>
 </h1>
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=svaleria&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=svaleria&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div> -->
-
 - 🌱 I’m currently learning **Frameworks and Libraries**
 
 - 👯 I’m looking to collaborate on **software development**
@@ -160,3 +155,25 @@
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
    </a>  
 </p>
+
+<div align=center>
+   <a href="https://github.com/svaleria">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   </a>
+</div>
+
+<h1 align="center">
+   <a href="https://github.com/svaleria">
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com/?font=Inter&color=%F1F1C725&size=35&center=true&vCenter=true&width=600%&lines=MY+STATS;" />
+   </a>
+</h1>
+
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=svaleria&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=svaleria&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div> -->
+<div align=center>
+   <a href="https://github.com/svaleria">
+   <img src="https://github-profile-trophy.vercel.app/?username=svaleria&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="zumrudu-anka" width=200% height=100%/>
+   </a>
+</div>
