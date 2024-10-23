@@ -186,9 +186,8 @@
 
 <div align=center>            
    <a href="https://github.com/svaleria">
-   <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=a6129c&center=true&vCenter=true&width=450%&lines=Watch+a+Snake+eat+my+contributions+!" />
+   <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%F1F1C725&center=true&vCenter=true&width=450%&lines=Watch+a+Snake+eat+my+contributions+!" />
    <img align="center" alt="Snake" width=100% src="https://github.com/svaleria/svaleria/blob/output/github-snake.svg" />
    </a>
 </div>
 
-![snake gif](https://github.com/svaleria/svaleria/blob/output/github-snake.svg)
