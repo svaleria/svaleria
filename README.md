@@ -177,3 +177,11 @@
    <img src="https://github-profile-trophy.vercel.app/?username=svaleria&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="zumrudu-anka" width=200% height=100%/>
    </a>
 </div>
+
+<div align=center>
+   <a href="https://github.com/svaleria">
+   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=svaleria&theme=redical&hide_border=true" />
+   </a>
+</div>
+
+
